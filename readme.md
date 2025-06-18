@@ -4,6 +4,7 @@
 - Install Node.js 16.13.1
 - Install `npm` from Node.js installation
 - Run `npm install` to install dependencies
+
 - Copy `.env.example` to `.env`
 
 ## Running
