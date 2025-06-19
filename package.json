@@ -23,5 +23,9 @@
     "prettier": "^3.5.3",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@aws-sdk/client-ec2": "^3.591.0",
+    "@aws-sdk/credential-provider-ini": "^3.591.0"
   }
 }
